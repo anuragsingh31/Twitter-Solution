@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="/Users/anurag/Documents/workspace/twitter4j-async-4.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/anurag/Documents/workspace/twitter4j-core-4.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/anurag/Downloads/twitter4j-4.0.1 (1)/lib/twitter4j-examples-4.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/anurag/Downloads/twitter4j-4.0.1 (1)/lib/twitter4j-media-support-4.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/anurag/Downloads/twitter4j-4.0.1 (1)/lib/twitter4j-stream-4.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/anurag/Documents/workspace/universal-image-loader-1.9.1-with-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/anurag/Downloads/picasso-2.2.0.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
